@@ -3,7 +3,7 @@
   <img src="https://your-image-url.com/banner.png" alt="Banner Image" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/your-profile" target="_blank">Your Name</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-profile" target="_blank">ONYEDIKACHI EJIM</a> 👋</h1>
 
 <p align="center">
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?label=Twitter&style=social"></a>
@@ -44,21 +44,21 @@
 
 ### 🏥 My Health Vault
 
-<img src="https://your-image-url.com/project-image.png" alt="My Health Vault" width="600px"/>
+<img src="https://your-image-url.com/project-image.png" alt="My Health Vault / stockely" width="600px"/>
 
 A web-based application for securely storing and managing health data.
 
 - Built with **Django**, **Firebase**, and **React**.
 - Enables users to store, manage, and share their medical history securely.
-- **[View Project](https://github.com/your-username/your-repo-name)** | **[Live Demo](https://your-app-url.com)**
+- **[View Project](https://github.com/kachyejim/)** | **[Live Demo](https://your-app-url.com)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Your GitHub stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kachyejim&show_icons=true&theme=tokyonight" alt="Your GitHub stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kachyejim&theme=tokyonight" alt="GitHub Streak" width="400px"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@ A web-based application for securely storing and managing health data.
 
 <p align="center">
   <a href="mailto:ejimovcemail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/EJIMOVC/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/ejimvincent"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 
