@@ -20,10 +20,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **My Health Vault** project (replace with your real project)
-- 🌱 I’m learning **Django**, **React**, and **Firebase**
-- 💼 Open to collaborating on **Open Source Projects**
-- ⚡ Fun fact: I love coding challenges and coffee ☕
+- 🔭 I’m currently working on **My Health Vault / stockely**
+- 🌱 I’m learning **Django**, **flask**, **backend development** and **Firebase**
+- 💼 Open to collaborating on **Any Projects**
+- ⚡ Fun fact: I love coding challenges
   
 ---
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
@@ -66,13 +66,13 @@ A web-based application for securely storing and managing health data.
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ejimovcemail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/ejimvincent"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kachyejim.kachyejim" alt="Visitors" />
 </p>
